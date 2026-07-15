@@ -55,8 +55,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moazzamaliii&show_icons=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=moazzamaliii)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moazzamaliii&layout=compact)
