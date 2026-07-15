@@ -63,5 +63,8 @@
 
 ![Snake animation](https://github.com/moazzamaliii/moazzamaliii/blob/output/github-contribution-grid-snake.svg)
 
+## 📅 GitHub Contribution Calendar
+
+![GitHub Contribution Grid](https://ghchart.rshah.org/moazzamaliii)
 
 
