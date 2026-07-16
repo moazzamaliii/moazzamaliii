@@ -11,11 +11,11 @@
 ##  About Me
 
 ```
-Passionate Full Stack & Mobile Developer.
-Building modern web and mobile experiences.
-Working with cutting-edge AI tools like Claude.
-Deploying with Netlify, Vercel & Supabase.
-Always learning, always growing.
+Passionate Full Stack & Mobile Developer
+Building modern web and mobile experiences
+Working with cutting-edge AI tools like Claude
+Deploying with Netlify, Vercel & Supabase
+Always learning, always growing
 ```
 
 ---
