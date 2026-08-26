@@ -50,11 +50,11 @@ Always learning, always growing
 
 ---
 
-🚀 Projects
+### Projects
 
 A selection of products and applications I've designed and built.
 
-⌚ Horoset
+### Horoset
 
 A modern e-commerce platform for a premium watch-shopping experience, built with a clean, responsive, and user-focused interface.
 
@@ -64,7 +64,7 @@ Tech Stack: "Next.js" "TypeScript" "Tailwind CSS"
 
 ---
 
-🛍️ Fastidly
+### Fastidly
 
 A modern e-commerce platform focused on delivering a smooth, responsive, and user-friendly shopping experience.
 
@@ -74,7 +74,7 @@ Tech Stack: "Next.js" "TypeScript" "Tailwind CSS" "Supabase"
 
 ---
 
-🏪 Fastidly Seller Hub
+### Fastidly Seller Hub
 
 A dedicated seller management platform designed to help sellers manage products, listings, and marketplace operations.
 
@@ -84,7 +84,7 @@ Tech Stack: "Next.js" "TypeScript" "Supabase"
 
 ---
 
-📱 Pulsbox
+### Pulsbox
 
 A social and educational platform concept combining content, profiles, posts, and community-focused experiences into one modern application.
 
