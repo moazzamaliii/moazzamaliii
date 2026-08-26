@@ -43,6 +43,26 @@ Always learning, always growing
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+🚀 Featured Projects
+
+A selection of projects I’ve designed and built while exploring modern web development, application engineering, and product development.
+
+Project| Description| Tech
+⌚ Horoset| A modern e-commerce experience for exploring and purchasing watches, with a clean, premium interface.| Next.js · TypeScript · Tailwind CSS
+🛍️ Fastidly| An e-commerce platform focused on delivering a smooth shopping experience with modern UI and responsive design.| React · TypeScript · Tailwind CSS
+🏪 Fastidly Seller Hub| A dedicated seller platform for managing products, listings, and marketplace operations.| Next.js · TypeScript · Supabase
+📱 Pulsbox| A modern social and educational platform concept combining content, profiles, posts, and community-focused features.| Next.js · TypeScript · Supabase
+🧩 More Projects| Continuously building, experimenting, and turning ideas into functional products.| Web · App · AI
+
+🌐 Live Projects
+
+- Horoset — https://horoset.vercel.app
+- Fastidly — https://fastidly.vercel.app
+- Fastidly Seller Hub — https://fastidlysellerhub.vercel.app
+- Pulsbox — https://pulsbox.vercel.app
+
+«Building ideas into real products — one project at a time. 🚀»
+
 ###  Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
