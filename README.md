@@ -43,25 +43,55 @@ Always learning, always growing
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-🚀 Featured Projects
+🚀 Projects
 
-A selection of projects I’ve designed and built while exploring modern web development, application engineering, and product development.
+Here are some of the products and applications I've designed and built.
 
-Project| Description| Tech
-⌚ Horoset| A modern e-commerce experience for exploring and purchasing watches, with a clean, premium interface.| Next.js · TypeScript · Tailwind CSS
-🛍️ Fastidly| An e-commerce platform focused on delivering a smooth shopping experience with modern UI and responsive design.| React · TypeScript · Tailwind CSS
-🏪 Fastidly Seller Hub| A dedicated seller platform for managing products, listings, and marketplace operations.| Next.js · TypeScript · Supabase
-📱 Pulsbox| A modern social and educational platform concept combining content, profiles, posts, and community-focused features.| Next.js · TypeScript · Supabase
-🧩 More Projects| Continuously building, experimenting, and turning ideas into functional products.| Web · App · AI
+⌚ Horoset
 
-🌐 Live Projects
+«A modern e-commerce platform for a premium watch-shopping experience, built with a clean and responsive interface.»
 
-- Horoset — https://horoset.vercel.app
-- Fastidly — https://fastidly.vercel.app
-- Fastidly Seller Hub — https://fastidlysellerhub.vercel.app
-- Pulsbox — https://pulsbox.vercel.app
+Tech: "Next.js" "TypeScript" "Tailwind CSS"
 
-«Building ideas into real products — one project at a time. 🚀»
+🔗 Live: https://horoset.vercel.app
+
+---
+
+🛍️ Fastidly
+
+«A modern e-commerce platform focused on creating a smooth, responsive, and user-friendly shopping experience.»
+
+Tech: "Next.js" "TypeScript" "Tailwind CSS" "Supabase"
+
+🔗 Live: https://fastidly.vercel.app
+
+---
+
+🏪 Fastidly Seller Hub
+
+«A dedicated seller management platform designed to help sellers manage their products and marketplace operations.»
+
+Tech: "Next.js" "TypeScript" "Supabase"
+
+🔗 Live: https://fastidlysellerhub.vercel.app
+
+---
+
+📱 Pulsbox
+
+«A social and educational platform concept built around content, profiles, posts, and community-focused experiences.»
+
+Tech: "Next.js" "TypeScript" "Supabase"
+
+🔗 Live: https://pulsbox.vercel.app
+
+---
+
+💻 More Projects Coming Soon
+
+I'm continuously building, experimenting, and turning ideas into real-world products.
+
+«Build. Learn. Improve. Repeat. 🚀»
 
 ###  Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
